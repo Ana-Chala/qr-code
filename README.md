@@ -19,7 +19,7 @@ this is solutuin to QR code component challenge on Frontend Mentor,this challeng
 ### Screenshot
 
 ![](./screenshot.jpg)
-
+<img src="./screenshot/Screenshot.png" width=800px >
 
 
 
