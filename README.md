@@ -25,8 +25,8 @@ this is solutuin to QR code component challenge on Frontend Mentor,this challeng
 
 ### Links
 
-- Solution URL: [](https://github.com/Ana-Chala/qr-code/blob/main/style.css)
-- Live Site URL:[](https://ana-chala.github.io/qr-code/)
+- Solution URL: https://github.com/Ana-Chala/qr-code/blob/main/style.css
+- Live Site URL:https://ana-chala.github.io/qr-code/
 
 
 ### Built with
